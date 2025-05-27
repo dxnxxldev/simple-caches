@@ -7,7 +7,7 @@
   "types": "src/index.d.ts",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/devdxnxxl/simple-caches.git"
+    "url": "git+https://github.com/dxnxxldev/simple-caches.git"
   },
   "keywords": [
     "cache",
@@ -15,7 +15,7 @@
     "TTL",
     "REDIS"
   ],
-  "author": "devdxnxxl",
+  "author": "dxnxxldev",
   "license": "MIT",
   "devDependencies": {
     "@types/node": "22.15.0",
